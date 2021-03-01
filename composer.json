@@ -1,0 +1,38 @@
+{
+  "name": "tatwerat/social-counter",
+  "description": "PHP Social Counter Plugin grabs the latest counts of your Fans/Followers etc. from your Favorite Social Networks and then displays them on your Blog. It is the perfect solution to encourage more users to join your network",
+  "keywords": [
+    "social counter",
+    "followers",
+    "social network",
+    "facebook",
+    "behance",
+    "dribbble",
+    "instagram",
+    "linkedin",
+    "pinterest",
+    "soundcloud",
+    "twitter",
+    "youtube",
+    "google"
+  ],
+  "homepage": "hhttps://github.com/abdo-host/PHP-Social-Counter",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Tatwerat Team",
+      "email": "tatwerat@gmail.com",
+      "homepage": "https://www.tatwerat.com/"
+    }
+  ],
+  "minimum-stability": "stable",
+  "autoload": {
+    "psr-4": {
+      "tatwerat\\SocialCounter\\": "src/"
+    }
+  },
+  "require": {
+    "php": ">=7.0"
+  }
+}
