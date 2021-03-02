@@ -17,7 +17,7 @@ You can define what social networking sites you want to the plugin to display th
  
 ```php
 // use composer
-use tatwerat\SocialCounter;
+use tatwerat\SocialCounter\SocialCounter;
 ```
 
 ```php
